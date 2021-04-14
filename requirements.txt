@@ -4,5 +4,5 @@ python-dateutil
 pytz
 scipy
 six
-sklearn
+scikit-learn
 threadpoolctl
